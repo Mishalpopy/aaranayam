@@ -5516,11 +5516,17 @@ select {
     }
 
     .nav-scroll .logo {
-        width: 150px;
+        width: 50px;
     }
 
-    .logo-img {
+
+    .nav-scroll .logo img {
+        width: 56px;
+    }
+
+    .logo-img img {
         margin-bottom: 0px;
+        width: 56px;
     }
 
     .navbar button {
